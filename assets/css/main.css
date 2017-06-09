@@ -3627,7 +3627,7 @@
 /* Header */
 
 	#header {
-		background-color: #4696e5;
+		background-color: #e53737;
 		color: #d0e4f8;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
@@ -3841,14 +3841,15 @@
 		}
 
 		#header h1 {
-			font-size: 3.25em;
+			font-size: 3em;
 			font-weight: bold;
 			margin-bottom: 0.5em;
 		}
 
 		#header p {
-			font-size: 1.5em;
+			font-size: 1.3em;
 			line-height: 1.35em;
+			color: #dddddd;
 		}
 
 			#header p br {
