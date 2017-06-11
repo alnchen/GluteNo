@@ -4170,8 +4170,18 @@
 		margin: 0 auto;
 	}
 
+	.pics-links {
+		display: flex;
+		justify-content: center;
+	}
+
 	.pics-links img {
 		width: 6vw;
 		height: auto;
 		border-radius: 50%;
+		/*border: groove 1px #bababa;*/
+	}
+
+	.profile {
+		margin: 0 10px 0 10px;
 	}
