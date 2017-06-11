@@ -4169,3 +4169,9 @@
 		width: 80vw;
 		margin: 0 auto;
 	}
+
+	.pics-links img {
+		width: 6vw;
+		height: auto;
+		border-radius: 50%;
+	}
