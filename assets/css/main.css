@@ -4150,3 +4150,22 @@
 		}
 
 	}
+
+/* personal css */
+	.celiac-blurb {
+		color: #821d14;
+		font-style: italic;
+	}
+
+	.cdf {
+		/*color: #0000EE;*/
+		text-decoration: underline;
+		text-align: right;
+		font-size: 19px;
+	}
+
+	.our-mission {
+		font-size: 20px;
+		width: 80vw;
+		margin: 0 auto;
+	}
